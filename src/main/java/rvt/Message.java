@@ -12,6 +12,6 @@ public class Message {
             String input = reader.nextLine();
 
             System.out.println(input);
-            reader.close();
+            reader.close(); 
     }
 }
